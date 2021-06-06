@@ -1,0 +1,9 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  padding-right: 100px;
+  width: 240px;
+}
+.cards__item:nth-child(3n) {
+  padding-right: 0;
+}
