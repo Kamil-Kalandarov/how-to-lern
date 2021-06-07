@@ -1,6 +1,11 @@
 .footer__column-link {
-  padding-bottom: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-style: normal;
+  text-decoration: none;
+  color: #f1f1f1;
+  transition: opacity 0.5s linear;
 }
-.footer__column-link:last-child {
-  padding: 0;
+.footer__column-link:hover {
+  opacity: 40%;
 }

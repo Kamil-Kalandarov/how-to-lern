@@ -4,7 +4,6 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-  position: absolute;
-  left: 64px;
+  padding-left: 64px;
   z-index: 2;
 }

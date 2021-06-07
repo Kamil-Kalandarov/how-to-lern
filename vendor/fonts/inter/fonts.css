@@ -6,14 +6,7 @@
   font-style: normal;
   font-weight: bold;
 }
-@font-face {
-  src:
-  url(./Inter-SemiBold.woff2) format('woff2'),
-  url(./Inter-SemiBold.woff) format('woff');
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: semibold;
-}
+
 @font-face {
   src:
   url(./Inter-Regular.woff2) format('woff2'),

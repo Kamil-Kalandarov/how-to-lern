@@ -1,0 +1,6 @@
+.recources__logo-link {
+  transition: opacity 0.5s linear;
+}
+.recources__logo-link:hover {
+  opacity: 40%;
+}
